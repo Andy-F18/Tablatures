@@ -1,0 +1,11 @@
+A1:A1|x,1,x,x,x,x|010000
+X:x|x,x,x,x,x,x|000000
+X:x|x,x,x,x,x,x|000000
+A2:A2|x,2,x,x,x,x|010000
+X:x|x,x,x,x,x,x|000000
+B1:B1|x,x,x,x,1,x|000010
+X:x|x,x,x,x,x,x|000000
+X:x|x,x,x,x,x,x|000000
+X:x|x,x,x,x,x,x|000000
+Fa mineur:Fm|1,3,3,1,1,1|134111
+end:end|x,x,x,x,x,x|000000
